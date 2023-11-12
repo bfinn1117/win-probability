@@ -8,7 +8,7 @@ Calculate the win probability at the end of each inning.
 Returns a chart using matplotlib.pyplot 
 
 # Usage
-Download the file. Once in the correct folder with the python program - from the terminal, run the following command:
+Download the main.py file. Open the terminal, and move to the folder with the downloaded main.py python program. From the terminal, run the following command:
 
 python main.py {insert game id here}
 
