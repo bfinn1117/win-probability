@@ -1,8 +1,6 @@
 # win-probability
 Analyzing MLB game data with python
 
-Webscraping game data from mlb.com
-
 Calculate the win probability at the end of each inning. 
 
 Returns a chart using matplotlib.pyplot 
